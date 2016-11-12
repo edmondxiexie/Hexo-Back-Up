@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Edmond Bay
 subtitle:
 description:
-author: John Doe
-language:
+author: Edmond
+language: zh-Hans
 timezone:
 
 # URL
@@ -71,3 +71,8 @@ deploy:
   type: git
   repo: https://github.com/edmondxiexie/edmondxiexie.github.io.git
   branch: master
+
+duoshuo_shortname: edmondxiexie
+
+# Place your favicon.ico to /source directory.
+favicon: favicon.ico
