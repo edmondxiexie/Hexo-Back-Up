@@ -43,7 +43,7 @@ tags: [art]
 巨人歌利亚的身高换算成今天的单位大概在2米99左右，而我们假设大卫是普通少年的身高，也就是1米7至1米8左右，这是个什么概念？如果这样的对比还不够震撼，那我们来打一个比方：大卫和歌利亚的对决，基本相当于身高1米48的小明，与身高2米26的大明单挑
 
 <div  align="center">  
-    <img src="/img/david/ming.jpg" width = "300" alt="大明与小明" align=center title="大明与小明"/>
+    <img src="https://c6.staticflickr.com/9/8282/28615706293_a9ef116cff_z.jpg" width = "300" alt="大明与小明" align=center title="大明与小明"/>
 </div>
 
 ***然后小明一拳把大明打死了！着实惊人！***
