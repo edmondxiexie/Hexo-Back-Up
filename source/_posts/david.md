@@ -51,7 +51,7 @@ tags: [art]
 米开朗基罗的这尊大卫像，便是取材于这样一个传奇的历史故事。少年时代的大卫左手将机弦（投石带）搭载左肩上，眼睛盯着斜上方，准备战斗！事实上在此之前，已经有了数量众多的以大卫为主题的雕塑，无一例外地都选用了大卫掷出石块的瞬间，或是割下歌利亚头颅的瞬间，亦或是踩在歌利亚头颅上炫耀的场景作为雕塑的造型，其中以贝尼尼的投石大卫像，和多纳泰罗的脚踩头颅的大卫像为代表（这可是文艺复兴时期的第一座裸体雕塑）。那么为什么米大师要一反常态，将画面定格于大战前的平静呢？
 
 <div  align="center">  
-    <img src="/img/david/other_david.jpg" width = "600" alt="（左）大卫（贝尼尼），（右）大卫（多纳泰罗）" align=center title="（左）大卫（贝尼尼），（右）大卫（多纳泰罗）"/>
+    <img src="https://c3.staticflickr.com/9/8527/29128095242_781b3f592d_b.jpg" width = "600" alt="（左）大卫（贝尼尼），（右）大卫（多纳泰罗）" align=center title="（左）大卫（贝尼尼），（右）大卫（多纳泰罗）"/>
 </div>
 
 让我们在此暂停，分析一件艺术品，作者是一个绕不过的话题，甚至我认为，作者本身就是作品的一部分，他将自己的性格注入作品，使之真正拥有灵魂，而不只是一座石头。很难说究竟是作品成就了作者，还是作者成就了作品。就如我所说，在此之前，有无数以大卫为主题的雕塑和画作，但从来没有一位大卫在那个时代掀起过如此大的波澜。所以，在这个时间节点，我们十分有必要更深入地了解米开朗基罗。
@@ -60,13 +60,13 @@ tags: [art]
 现在开始，我们把注意力转向西方艺术史上的一个重要时期：文艺复兴（*Renaissance*）。说到文艺复兴，一定绕不开这三个名字：达芬奇、拉斐尔、米开朗基罗：
 
 <div  align="center">  
-    <img src="/img/david/turtle.JPG" width = "500" alt="忍者神龟" align=center title="忍者神龟"/>
+    <img src="https://c6.staticflickr.com/8/7474/29236063405_aa542ca2a8_b.jpg" width = "500" alt="忍者神龟" align=center title="忍者神龟"/>
 </div>
 
 不不不，不是那三只“乌龟”，而是文艺复兴三杰。我们这次着重说说其中一杰，也就是《大卫》的作者
 
 <div  align="center">  
-    <img src="/img/david/Michelangelo.jpg" width = "500" alt="米开朗基罗" align=center title="米开朗基罗"/>
+    <img src="https://c4.staticflickr.com/9/8430/29236063955_6393f2be98_z.jpg" width = "500" alt="米开朗基罗" align=center title="米开朗基罗"/>
 </div>
 
 ***米开朗基罗（Michelangelo）***
@@ -78,19 +78,19 @@ tags: [art]
 我们先来看一下米大师的代表作之一，西斯廷礼拜堂天顶壁画《创世纪》（*Genesis*），的一部分：
 
 <div  align="center">  
-    <img src="/img/david/adam.png" width = "1000" alt="创造亚当" align=center title="创造亚当"/>
+    <img src="https://c6.staticflickr.com/9/8620/29236067845_ed59fefcef_k.jpg" width = "1000" alt="创造亚当" align=center title="创造亚当"/>
 </div>
 
 这幅画就是著名的《创造亚当》（*The Creation of Adam*）,长4.8米，宽2.3米，即使将这一张画拿出来，从构思、美学等角度来评价，都已经是传世的杰作。那我们再来看一下它在整幅壁画所在位置：
 
 <div  align="center">  
-    <img src="/img/david/Sistine_Ceiling_Frescoes.jpg" width = "1000" alt="创世纪" align=center title="创世纪"/>
+    <img src="https://c6.staticflickr.com/9/8147/28615706213_113f8a4ae8_z.jpg" width = "1000" alt="创世纪" align=center title="创世纪"/>
 </div>
 
 再来看一下全景图，远处墙上的壁画就是《最后的审判》（*The Last Judgment*）。
 
 <div  align="center">  
-    <img src="/img/david/Genesis.jpeg" width = "300" alt="创世纪" align=center title="创世纪"/>
+    <img src="https://c4.staticflickr.com/9/8047/29236064115_9a0fa7e6f9_z.jpg" width = "300" alt="创世纪" align=center title="创世纪"/>
 </div>
 
 整幅壁画的画面面积达14x38.5平方米，画上共绘有343个人物，大部分都是真人大小，仅从尺寸来说，就已足够震撼，更何况其中的9幅中心画面，幅幅都是《创造亚当》那样的杰作。为此，米开朗基罗把自己吊挂在天顶上整整四年，1512年杰作完成，当37岁的米开朗基罗走出礼拜堂时，因长期不直立行走，已佝偻如老人。
@@ -100,7 +100,7 @@ tags: [art]
 把时钟向前拨，1464年，也就是米开朗基罗出生前十一年，佛罗伦萨的某个土豪高了一块巨型大理石：
 
 <div  align="center">  
-    <img src="/img/david/marble.jpg" width = "300" alt="大理石料" align=center title="大理石料"/>
+    <img src="https://c4.staticflickr.com/9/8546/28615706403_a05c680a28_b.jpg" width = "300" alt="大理石料" align=center title="大理石料"/>
 </div>
 
 但是由于它的体积庞大，形状长而薄，且被人雕坏过，导致非常难驾驭，没有一个雕刻家敢再碰它，于是这块石头就在那里躺了36年，因为在那放的时间太久，人们甚至给这块石头取了个名字--“巨人”。也许，这个沉睡的“巨人”一直在等待一个命中注定的塑造者。
@@ -113,13 +113,13 @@ tags: [art]
 《大卫》算上基座有5.17米高，普通人也就到他膝盖的位置，再加上《大卫》原计划置于大教堂作为装饰雕塑，无论你站在哪个角度你都只能仰视他。米开朗基罗以此刻意夸张了人物头部和手臂的体积，以强调大卫的智慧与力量。头部离仰视作品的观者最远，所以将头部放大反而能产生比例正确的视觉效果，放大的手部则是米大师为了人物更显得坚挺有力而做出的设计。此外，浓密的毛发，及结实而不臃肿的恰到好处的肌肉线条也表现了这个年轻人的健美与活力。
 
 <div  align="center">  
-    <img src="/img/david/david_around.jpg" width = "1000" alt="《大卫》" align=center title="《大卫》"/>
+    <img src="https://c2.staticflickr.com/9/8292/28615712433_cc793bfb8d_b.jpg" width = "1000" alt="《大卫》" align=center title="《大卫》"/>
 </div>
 
 整体来看大卫充满自信地站立着，英姿飒爽，身体呈放松的姿态，重心落在右腿上，使人体自然而然地形成一条优雅的曲线，他右手拿石块，左手前屈将机弦搭在左肩上，头部转向左边并微微上扬。而走进细节，我们却发现静脉从他下垂的右手上凸起，颈部的肌肉凸显，面色坚毅，他的上唇和鼻子附近的肌肉紧绷，眉头微锁，眼睛全神贯注地望着远方，可能正在观察远处的巨人。他面色的紧张和姿态放松形成了强烈的对比。说明他刚刚做出战斗的决定，正踏上战场，在远处打量着自己的对手，脑海中一遍又一遍地演绎这场瞬间决定成败的对决--石块击中歌利亚唯一没有被铠甲覆盖的额头，或是自己的死亡。而此刻的宁静却烘托了当时空气中的紧张感，如同在峰顶俯冲前刻意停下的过山车，坠落前刹那的平静却将对失重的恐惧渲染到极致，米开朗基罗用这样一个时间定格，巧妙地将观者引入战场，感受到大战一触即发的张力，也更加真切地感受大卫的沉着、勇敢和必胜的信念。
 
 <div  align="center">  
-    <img src="/img/david/detail.jpg" width = "1000" alt="《大卫》细节" align=center title="《大卫》细节"/>
+    <img src="https://c1.staticflickr.com/9/8559/29128097672_ea70580cd4_b.jpg" width = "1000" alt="《大卫》细节" align=center title="《大卫》细节"/>
 </div>
 
 这尊雕像也被认为是西方美术史上最值得夸耀的男性人体雕像之一。不仅如此，《大卫》是文艺复兴人文主义思想的具体体现，它对人体的赞美，表面上看是对古希腊艺术的“复兴”，实质上表示着人们已从黑暗的中世纪桎梏中解脱出来，充分认识到了人在改造世界中的巨大力量。米开朗基罗在雕刻过程中注入了巨大的热情，塑造出来的不仅仅是一尊雕像，而是思想解放运动在艺术上得到表达的象征。
