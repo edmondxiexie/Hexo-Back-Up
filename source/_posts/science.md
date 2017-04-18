@@ -4,7 +4,6 @@ date: 2017-04-18 12:00:00
 categories: life
 tags: [life]
 ---
-# 我的赛先生，你的德先生
 
 <div align="center">    
     <img src="https://c1.staticflickr.com/3/2916/34072624476_4e19464509_b.jpg" width = "1000" alt="International Women's Day 2015" align=center title="" />
